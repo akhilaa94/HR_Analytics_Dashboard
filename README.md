@@ -1,5 +1,12 @@
 # HR Analytics Dashboard in Power BI
 
+![HR_Analytics_Dashboard](https://github.com/akhilaa94/HR_Analytics_Dashboard/assets/169245384/2597badc-3f8c-4979-8292-b453164e5cb5)
+
+A Comprehensive Dashboard for Employee Insights.
+
+The dashboard showcases important KPIs such as total employees, active employees, attrition rate, and average age.
+
+The HR analytics dashboard provides organizations with the necessary insights to make data-driven decisions and gain a competitive edge in today's dynamic business environment.
 
 ##  Key Performance Indicators (KPIs):
 
